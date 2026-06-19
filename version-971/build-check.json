@@ -1,0 +1,21 @@
+{
+  "movie_count_from_txt": 150,
+  "html_files": 165,
+  "movie_detail_pages": 150,
+  "category_pages": 10,
+  "category_distribution": {
+    "国产精选": 15,
+    "爱情喜剧": 15,
+    "悬疑惊悚": 15,
+    "动作犯罪": 15,
+    "科幻奇幻": 15,
+    "剧情家庭": 15,
+    "青春校园": 15,
+    "都市情感": 15,
+    "冒险生存": 15,
+    "年度新片": 15
+  },
+  "jpg_or_image_files_in_zip": 0,
+  "forbidden_phrase_hits": [],
+  "unlinked_movie_pages": []
+}

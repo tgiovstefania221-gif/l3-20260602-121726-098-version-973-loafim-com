@@ -1,0 +1,26 @@
+{
+  "siteTitle": "最新电影大全-热门影片在线点播-精选电影片库",
+  "logo": "最新电影大全",
+  "movieCount": 1986,
+  "categoryCount": 10,
+  "detailPageCount": 1986,
+  "categoryPages": [
+    "category/latest-movies.html",
+    "category/popular-picks.html",
+    "category/high-score.html",
+    "category/suspense-crime.html",
+    "category/action-adventure.html",
+    "category/romance-drama.html",
+    "category/fantasy-sci-fi.html",
+    "category/costume-history.html",
+    "category/global-cinema.html",
+    "category/series-zone.html"
+  ],
+  "generatedFiles": {
+    "home": "index.html",
+    "categories": "categories.html",
+    "allMovies": "all.html",
+    "ranking": "rank.html",
+    "search": "search.html"
+  }
+}

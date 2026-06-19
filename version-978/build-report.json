@@ -1,0 +1,11 @@
+{
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_page_count": 10,
+  "html_page_count": 2015,
+  "category_movie_card_count": 2000,
+  "missing_category_files": [],
+  "bad_analytics_html": [],
+  "missing_category_detail_links_sample": [],
+  "image_files_in_zip_source": 0
+}

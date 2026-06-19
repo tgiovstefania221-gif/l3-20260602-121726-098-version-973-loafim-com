@@ -1,0 +1,60 @@
+{
+  "siteTitle": "国产高分电视剧-电视剧热播榜单-高清剧集在线播放",
+  "logo": "国产高分电视剧",
+  "movieCount": 2000,
+  "categoryCount": 10,
+  "detailPageCount": 2000,
+  "generatedAt": "2026-05-26",
+  "categories": [
+    {
+      "name": "国产剧集",
+      "file": "categories/category-01.html",
+      "count": 200
+    },
+    {
+      "name": "热播电影",
+      "file": "categories/category-02.html",
+      "count": 200
+    },
+    {
+      "name": "都市爱情",
+      "file": "categories/category-03.html",
+      "count": 200
+    },
+    {
+      "name": "悬疑惊悚",
+      "file": "categories/category-04.html",
+      "count": 200
+    },
+    {
+      "name": "科幻奇幻",
+      "file": "categories/category-05.html",
+      "count": 200
+    },
+    {
+      "name": "喜剧家庭",
+      "file": "categories/category-06.html",
+      "count": 200
+    },
+    {
+      "name": "动作冒险",
+      "file": "categories/category-07.html",
+      "count": 200
+    },
+    {
+      "name": "历史战争",
+      "file": "categories/category-08.html",
+      "count": 200
+    },
+    {
+      "name": "动画少儿",
+      "file": "categories/category-09.html",
+      "count": 200
+    },
+    {
+      "name": "高分片单",
+      "file": "categories/category-10.html",
+      "count": 200
+    }
+  ]
+}
